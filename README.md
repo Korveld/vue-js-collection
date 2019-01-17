@@ -1,2 +1,1 @@
-# vue-js-collection
-Collections of vue.js apps
+# Vue.js app collection
